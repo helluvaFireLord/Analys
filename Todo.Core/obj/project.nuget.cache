@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mpCG4TqjXHI=",
+  "success": true,
+  "projectFilePath": "C:\\aet,g\\aworks\\Analys\\Todo.Core\\Todo.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xboxy\\.nuget\\packages\\microsoft.codeanalysis.netanalyzers\\9.0.0\\microsoft.codeanalysis.netanalyzers.9.0.0.nupkg.sha512",
+    "C:\\Users\\xboxy\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
