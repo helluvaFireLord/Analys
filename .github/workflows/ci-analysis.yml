@@ -1,4 +1,4 @@
-ame: CI / Build & Static Analysis 
+name: CI / Build & Static Analysis 
  
 on: 
   push: 
