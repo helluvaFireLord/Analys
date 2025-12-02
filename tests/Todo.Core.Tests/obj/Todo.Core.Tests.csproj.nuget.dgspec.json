@@ -97,7 +97,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\aet,g\\aworks\\Analys\\Todo.Core\\Todo.Core.csproj",
-        "projectName": "Todo.Core",
+        "projectName": "TodoTask.Core",
         "projectPath": "C:\\aet,g\\aworks\\Analys\\Todo.Core\\Todo.Core.csproj",
         "packagesPath": "C:\\Users\\xboxy\\.nuget\\packages\\",
         "outputPath": "C:\\aet,g\\aworks\\Analys\\Todo.Core\\obj\\",

@@ -12,7 +12,7 @@
 	</ItemGroup>
 
 	<PropertyGroup>
-		<PackageId>Todo.Core</PackageId>
+		<PackageId>TodoTask.Core</PackageId>
 		<Version>1.0.0</Version>
 		<Authors>Student</Authors>
 		<PackageDescription>Core library for Todo application.</PackageDescription>
