@@ -1,0 +1,16 @@
+C:\aet,g\aworks\Analys\Todo.SampleApp\bin\Debug\net8.0\Todo.SampleApp.deps.json
+C:\aet,g\aworks\Analys\Todo.SampleApp\bin\Debug\net8.0\Todo.SampleApp.dll
+C:\aet,g\aworks\Analys\Todo.SampleApp\bin\Debug\net8.0\Todo.SampleApp.pdb
+C:\aet,g\aworks\Analys\Todo.SampleApp\bin\Debug\net8.0\Todo.Core.dll
+C:\aet,g\aworks\Analys\Todo.SampleApp\bin\Debug\net8.0\Todo.Core.pdb
+C:\aet,g\aworks\Analys\Todo.SampleApp\obj\Debug\net8.0\Todo.SampleApp.csproj.AssemblyReference.cache
+C:\aet,g\aworks\Analys\Todo.SampleApp\obj\Debug\net8.0\Todo.SampleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\aet,g\aworks\Analys\Todo.SampleApp\obj\Debug\net8.0\Todo.SampleApp.AssemblyInfoInputs.cache
+C:\aet,g\aworks\Analys\Todo.SampleApp\obj\Debug\net8.0\Todo.SampleApp.AssemblyInfo.cs
+C:\aet,g\aworks\Analys\Todo.SampleApp\obj\Debug\net8.0\Todo.SampleApp.csproj.CoreCompileInputs.cache
+C:\aet,g\aworks\Analys\Todo.SampleApp\obj\Debug\net8.0\Todo.SampleApp.sourcelink.json
+C:\aet,g\aworks\Analys\Todo.SampleApp\obj\Debug\net8.0\Todo.Sam.1B80F7CB.Up2Date
+C:\aet,g\aworks\Analys\Todo.SampleApp\obj\Debug\net8.0\Todo.SampleApp.dll
+C:\aet,g\aworks\Analys\Todo.SampleApp\obj\Debug\net8.0\refint\Todo.SampleApp.dll
+C:\aet,g\aworks\Analys\Todo.SampleApp\obj\Debug\net8.0\Todo.SampleApp.pdb
+C:\aet,g\aworks\Analys\Todo.SampleApp\obj\Debug\net8.0\ref\Todo.SampleApp.dll

@@ -9,3 +9,4 @@ C:\aet,g\aworks\Analys\Todo.Core\obj\Debug\net8.0\Todo.Core.dll
 C:\aet,g\aworks\Analys\Todo.Core\obj\Debug\net8.0\refint\Todo.Core.dll
 C:\aet,g\aworks\Analys\Todo.Core\obj\Debug\net8.0\Todo.Core.pdb
 C:\aet,g\aworks\Analys\Todo.Core\obj\Debug\net8.0\ref\Todo.Core.dll
+C:\aet,g\aworks\Analys\Todo.Core\obj\Debug\net8.0\Todo.Core.sourcelink.json
